@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Assignment1</string>
+    <string-array name="occupation_array">
+        <item>Student</item>
+        <item>Self-employed</item>
+        <item>Employed</item>
+        <item>Unemployed</item>
+    </string-array>
+</resources>
